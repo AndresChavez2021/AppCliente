@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "234359114825",
+    "project_id": "smart-trucks-41e25",
+    "storage_bucket": "smart-trucks-41e25.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234359114825:android:993b81bcc9243aed370398",
+        "android_client_info": {
+          "package_name": "com.ryacs.mart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "234359114825-3afcnbet7p4kh555s621rv59bvlrvt5o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmgTTHM0JjzZV30Et3O-L_tzyP6KStBws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "234359114825-3afcnbet7p4kh555s621rv59bvlrvt5o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
